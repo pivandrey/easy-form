@@ -1,6 +1,6 @@
 import React from 'react';
 import { Form, Field } from 'react-final-form';
-import './App.css';
+import './App.scss';
 
 const initialValues = {
   firstName: 'Brad',
